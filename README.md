@@ -19,7 +19,7 @@ Escribime <a href="mailto:contacto@emicastor.com.ar">**acá**</a> ↙️ y con g
  / 
 <img src="https://skillicons.dev/icons?i=php,mysql&theme=light" width=72 title="backend" />
  / 
- <img src="https://skillicons.dev/icons?i=linux&theme=light" width=33 title="so" />
+ <img src="https://skillicons.dev/icons?i=linux&theme=light" width=33 title="os" />
   / 
  <img src="https://skillicons.dev/icons?i=netlify,cloudflare,github,vercel" width=150 title="deploy" />
 </div>
