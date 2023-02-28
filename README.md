@@ -10,7 +10,6 @@ Escribime <a href="mailto:contacto@emicastor.com.ar">**acá**</a> ↙️ y con g
 - Más datos en **[mi sitio web](https://emicastor.com.ar)**
 - Creo tu página web en **[mi agencia de diseño y desarrollo web](https://emicastor.com.ar/agencia)**
 - Leeme en **[mi blog](https://emicastor.com.ar/blog)**
-- Seguime en **[facebook](https://facebook.com/emicastor)**
 - Seguime en **[twitter](https://twitter.com/emicastor)**
 
 ## 🧑🏻‍💻 Herramientas para desarrollar
