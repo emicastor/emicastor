@@ -1,16 +1,16 @@
 ### **`DESARROLLADOR WEB`**
 
 ## 👉🏻 Sobre mí
-Hago **páginas web**. Tengo mi **propia [agencia de diseño y desarrollo web](https://emicastor.com.ar/agencia)** donde ofrezco sitios web profesionales y adaptables a cualquier dispositivo. También **escribo** sobre la web en mi **[blog](https://emicastor.com.ar/blog)**.
+Técnico Superior en Desarrollo de Software y Desarrollador Web freelance. Hago sitios y apps web con Bootstrap y PHP y me gusta. 
 
 ## 📬 Contacto
 Escribime <a href="mailto:contacto@emicastor.com.ar">**acá**</a> ↙️ y con gusto te devolveré el mensaje.
 
 ## 🔗 Enlaces útiles
-- Más datos en **[mi sitio web](https://emicastor.com.ar)**
-- Creo tu página web en **[mi agencia de diseño y desarrollo web](https://emicastor.com.ar/agencia)**
+- Más datos sobre mí en **[mi sitio web](https://emicastor.com.ar)**
+- Creo tu sitio web de manera profesional y a muy buen precio. Más info en  **[emicastor.com.ar/sitios-web](https://emicastor.com.ar/sitios-web)**
 - Leeme en **[mi blog](https://emicastor.com.ar/blog)**
-- Seguime en **[twitter](https://twitter.com/emicastor)**
+- Seguime en **[X](https://twitter.com/emicastor)** y **[Facebook](https://facebook.com/emicastor.dev)**
 
 ## 🧑🏻‍💻 Herramientas para desarrollar
 <div>
