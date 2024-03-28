@@ -1,5 +1,7 @@
-### **`DESARROLLADOR WEB PHP`**
+### **`DESARROLLADOR WEB`**
 
-Técnico en Desarrollo de Software volcado al Desarrollo Web. Hago sitios y apps web con PHP y Bootstrap. 
+Hago sitios web con Bootstrap y PHP. 
+
+🟢 Disponible para trabajar.
 
 **[emicastor.com.ar](https://emicastor.com.ar)**
